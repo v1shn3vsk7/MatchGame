@@ -14,3 +14,10 @@ C:\Users\vladimirvasilev\Desktop\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.
 C:\Users\vladimirvasilev\Desktop\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.CoreCompileInputs.cache
 C:\Users\vladimirvasilev\Desktop\MatchGame\MatchGame\obj\Debug\MatchGame.exe
 C:\Users\vladimirvasilev\Desktop\MatchGame\MatchGame\obj\Debug\MatchGame.pdb
+C:\Users\vladimirvasilev\Desktop\MatchGame\MatchGame\bin\Debug\Emoji.Wpf.dll
+C:\Users\vladimirvasilev\Desktop\MatchGame\MatchGame\bin\Debug\Stfu.dll
+C:\Users\vladimirvasilev\Desktop\MatchGame\MatchGame\bin\Debug\System.ValueTuple.dll
+C:\Users\vladimirvasilev\Desktop\MatchGame\MatchGame\bin\Debug\Typography.GlyphLayout.dll
+C:\Users\vladimirvasilev\Desktop\MatchGame\MatchGame\bin\Debug\Typography.OpenFont.dll
+C:\Users\vladimirvasilev\Desktop\MatchGame\MatchGame\bin\Debug\System.ValueTuple.xml
+C:\Users\vladimirvasilev\Desktop\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.CopyComplete
